@@ -1,0 +1,725 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R4, (C)2005-2014 SA-MP Team
+
+[05:36:32] 
+[05:36:32] Server Plugins
+[05:36:32] --------------
+[05:36:32]  Loading plugin: streamer.dll
+[05:36:32] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[05:36:32]   Loaded.
+[05:36:32]  Loading plugin: sscanf.dll
+[05:36:32] 
+
+[05:36:32]  ===============================
+
+[05:36:32]       sscanf plugin loaded.     
+
+[05:36:32]          Version:  2.8.1        
+
+[05:36:32]    (c) 2012 Alex "Y_Less" Cole  
+
+[05:36:32]  ===============================
+
+[05:36:32]   Loaded.
+[05:36:32]  Loaded 2 plugins.
+
+[05:36:32] 
+[05:36:32] Filterscripts
+[05:36:32] ---------------
+[05:36:32]   Loading filterscript '1.amx'...
+[05:36:32]   Loading filterscript '2.amx'...
+[05:36:32]   Loaded 2 filterscripts.
+
+[05:36:32]  
+[05:36:32]  
+[05:36:32]  
+[05:36:32]  ======================================= 
+[05:36:32]  |                                     | 
+[05:36:32]  |        YSI version 3.09.0684        | 
+[05:36:32]  |        By Alex "Y_Less" Cole        | 
+[05:36:32]  |                                     | 
+[05:36:32]  ======================================= 
+[05:36:32]  
+[05:36:32]  
+[05:36:32]  
+[05:36:33] onfoot_rate = 40  (int, read-only)
+[05:36:33] incar_rate = 40  (int, read-only)
+[05:36:33] weapon_rate = 40  (int, read-only)
+[05:36:42] [SCRIPT] CASAS cargadas con exito.
+[05:36:42] [SCRIPT] DATOS EXTRA cargados con exito.
+[05:36:42] [SCRIPT] ESTADISTICAS DEL SERVIDOR cargadas con exito.
+[05:36:42] [SCRIPT] PUNTOS cargados con exito.
+[05:36:42] [SCRIPT] PUERTAS DINAMICAS cargados con exito.
+[05:36:42] [SCRIPT] AUTOS EN VENTA cargados con exito.
+[05:36:42] [SCRIPT] CAMARAS DE VELOCIDAD cargadas con exito.
+[05:36:42] [SCRIPT] ATM's cargados con exito.
+[05:36:42] [SCRIPT] CODIGOS VIP cargados con exito.
+[05:36:42] [SCRIPT] NEGOCIOS cargados con exito.
+[05:36:45] [SCRIPT] P-VEHICULOS cargados con exito.
+[05:36:45]  
+[05:36:45]  
+[05:36:45] -------------------------------------------
+[05:36:45]  <!> INICIANDO GAMEMODE...
+[05:36:45]  <!> AMX CARGADO...
+[05:36:45]  * Bienvenido a NEW PARADISE Roleplay *
+[05:36:45] -------------------------------------------
+[05:36:45]  
+[05:36:45] Number of vehicle models: 128
+[05:36:57] Incoming connection: 127.0.0.1:59908
+[05:36:57] [join] Bruno_Hoffman has joined the server (0:127.0.0.1)
+[05:37:54] [Jugador: Bruno Hoffman 0] ha escrito el comando '/darfaccion'.
+[05:38:01] [Jugador: Bruno Hoffman 0] ha escrito el comando '/makefacmod 0'.
+[05:38:07] [Jugador: Bruno Hoffman 0] ha escrito el comando '/darfaccion 0 1'.
+[05:38:09] [Jugador: Bruno Hoffman 0] ha escrito el comando '/ls'.
+[05:39:31] [part] Bruno_Hoffman has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R4, (C)2005-2014 SA-MP Team
+
+[04:19:57] 
+[04:19:57] Server Plugins
+[04:19:57] --------------
+[04:19:57]  Loading plugin: streamer.dll
+[04:19:57] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[04:19:57]   Loaded.
+[04:19:57]  Loading plugin: sscanf.dll
+[04:19:58] 
+
+[04:19:58]  ===============================
+
+[04:19:58]       sscanf plugin loaded.     
+
+[04:19:58]          Version:  2.8.1        
+
+[04:19:58]    (c) 2012 Alex "Y_Less" Cole  
+
+[04:19:58]  ===============================
+
+[04:19:58]   Loaded.
+[04:19:58]  Loaded 2 plugins.
+
+[04:19:58] 
+[04:19:58] Filterscripts
+[04:19:58] ---------------
+[04:19:58]   Loading filterscript '1.amx'...
+[04:19:58]   Loading filterscript '2.amx'...
+[04:19:58]   Loaded 2 filterscripts.
+
+[04:19:58]  
+[04:19:58]  
+[04:19:58]  
+[04:19:58]  ======================================= 
+[04:19:58]  |                                     | 
+[04:19:58]  |        YSI version 3.09.0684        | 
+[04:19:58]  |        By Alex "Y_Less" Cole        | 
+[04:19:58]  |                                     | 
+[04:19:58]  ======================================= 
+[04:19:58]  
+[04:19:58]  
+[04:19:58]  
+[04:19:59] onfoot_rate = 40  (int, read-only)
+[04:19:59] incar_rate = 40  (int, read-only)
+[04:19:59] weapon_rate = 40  (int, read-only)
+[04:20:16] [SCRIPT] CASAS cargadas con exito.
+[04:20:16] [SCRIPT] DATOS EXTRA cargados con exito.
+[04:20:16] [SCRIPT] ESTADISTICAS DEL SERVIDOR cargadas con exito.
+[04:20:16] [SCRIPT] PUNTOS cargados con exito.
+[04:20:18] [SCRIPT] PUERTAS DINAMICAS cargados con exito.
+[04:20:18] [SCRIPT] AUTOS EN VENTA cargados con exito.
+[04:20:18] [SCRIPT] CAMARAS DE VELOCIDAD cargadas con exito.
+[04:20:18] [SCRIPT] ATM's cargados con exito.
+[04:20:18] [SCRIPT] CODIGOS VIP cargados con exito.
+[04:20:18] [SCRIPT] NEGOCIOS cargados con exito.
+[04:20:30] [SCRIPT] P-VEHICULOS cargados con exito.
+[04:20:31]  
+[04:20:31]  
+[04:20:31] -------------------------------------------
+[04:20:31]  <!> INICIANDO GAMEMODE...
+[04:20:31]  <!> AMX CARGADO...
+[04:20:31]  * Bienvenido a NEW PARADISE Roleplay *
+[04:20:31] -------------------------------------------
+[04:20:31]  
+[04:20:31] Number of vehicle models: 128
+[04:20:51] Incoming connection: 127.0.0.1:51416
+[04:20:51] [join] Bruno_Hoffman has joined the server (0:127.0.0.1)
+[04:21:08] [Jugador: Bruno Hoffman 0] ha escrito el comando '/quitarshop 0'.
+[04:21:13] [Jugador: Bruno Hoffman 0] ha escrito el comando '/ah'.
+[04:21:23] [Jugador: Bruno Hoffman 0] ha escrito el comando '/adminduty'.
+[04:21:24] [part] Bruno_Hoffman has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R4, (C)2005-2014 SA-MP Team
+
+[04:30:35] 
+[04:30:35] Server Plugins
+[04:30:35] --------------
+[04:30:35]  Loading plugin: streamer.dll
+[04:30:35] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[04:30:35]   Loaded.
+[04:30:35]  Loading plugin: sscanf.dll
+[04:30:35] 
+
+[04:30:35]  ===============================
+
+[04:30:35]       sscanf plugin loaded.     
+
+[04:30:35]          Version:  2.8.1        
+
+[04:30:35]    (c) 2012 Alex "Y_Less" Cole  
+
+[04:30:35]  ===============================
+
+[04:30:35]   Loaded.
+[04:30:35]  Loaded 2 plugins.
+
+[04:30:35] 
+[04:30:35] Filterscripts
+[04:30:35] ---------------
+[04:30:35]   Loading filterscript '1.amx'...
+[04:30:35]   Loading filterscript '2.amx'...
+[04:30:35]   Loaded 2 filterscripts.
+
+[04:30:35]  
+[04:30:35]  
+[04:30:35]  
+[04:30:35]  ======================================= 
+[04:30:35]  |                                     | 
+[04:30:35]  |        YSI version 3.09.0684        | 
+[04:30:35]  |        By Alex "Y_Less" Cole        | 
+[04:30:35]  |                                     | 
+[04:30:35]  ======================================= 
+[04:30:35]  
+[04:30:35]  
+[04:30:35]  
+[04:30:35] onfoot_rate = 40  (int, read-only)
+[04:30:35] incar_rate = 40  (int, read-only)
+[04:30:35] weapon_rate = 40  (int, read-only)
+[04:30:42] [SCRIPT] CASAS cargadas con exito.
+[04:30:42] [SCRIPT] DATOS EXTRA cargados con exito.
+[04:30:42] [SCRIPT] ESTADISTICAS DEL SERVIDOR cargadas con exito.
+[04:30:42] [SCRIPT] PUNTOS cargados con exito.
+[04:30:42] [SCRIPT] PUERTAS DINAMICAS cargados con exito.
+[04:30:42] [SCRIPT] AUTOS EN VENTA cargados con exito.
+[04:30:42] [SCRIPT] CAMARAS DE VELOCIDAD cargadas con exito.
+[04:30:42] [SCRIPT] ATM's cargados con exito.
+[04:30:42] [SCRIPT] CODIGOS VIP cargados con exito.
+[04:30:42] [SCRIPT] NEGOCIOS cargados con exito.
+[04:30:46] [SCRIPT] P-VEHICULOS cargados con exito.
+[04:30:47]  
+[04:30:47]  
+[04:30:47] -------------------------------------------
+[04:30:47]  <!> INICIANDO GAMEMODE...
+[04:30:47]  <!> AMX CARGADO...
+[04:30:47]  * Bienvenido a NEW PARADISE Roleplay *
+[04:30:47] -------------------------------------------
+[04:30:47]  
+[04:30:47] Number of vehicle models: 128
+[04:31:02] Incoming connection: 127.0.0.1:61852
+[04:31:02] [join] Bruno_Hoffman has joined the server (0:127.0.0.1)
+[04:31:20] [Jugador: Bruno Hoffman 0] ha escrito el comando '/quitarshop 0'.
+[04:31:23] [Jugador: Bruno Hoffman 0] ha escrito el comando '/quitarfacmod 0'.
+[04:31:30] [Jugador: Bruno Hoffman 0] ha escrito el comando '/quitarshop 0'.
+[04:31:36] [Jugador: Bruno Hoffman 0] ha escrito el comando '/quitarapban 0'.
+[04:31:49] [Jugador: Bruno Hoffman 0] ha escrito el comando '/adminduty'.
+[04:31:53] [Jugador: Clicked 0] ha escrito el comando '/adminduty'.
+[04:31:57] [Jugador: Bruno Hoffman 0] ha escrito el comando '/ah'.
+[04:32:30] [part] Bruno_Hoffman has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R4, (C)2005-2014 SA-MP Team
+
+[04:36:45] 
+[04:36:45] Server Plugins
+[04:36:45] --------------
+[04:36:45]  Loading plugin: streamer.dll
+[04:36:45] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[04:36:45]   Loaded.
+[04:36:45]  Loading plugin: sscanf.dll
+[04:36:45] 
+
+[04:36:45]  ===============================
+
+[04:36:45]       sscanf plugin loaded.     
+
+[04:36:45]          Version:  2.8.1        
+
+[04:36:45]    (c) 2012 Alex "Y_Less" Cole  
+
+[04:36:45]  ===============================
+
+[04:36:45]   Loaded.
+[04:36:45]  Loaded 2 plugins.
+
+[04:36:45] 
+[04:36:45] Filterscripts
+[04:36:45] ---------------
+[04:36:45]   Loading filterscript '1.amx'...
+[04:36:46]   Loading filterscript '2.amx'...
+[04:36:46]   Loaded 2 filterscripts.
+
+[04:36:46]  
+[04:36:46]  
+[04:36:46]  
+[04:36:46]  ======================================= 
+[04:36:46]  |                                     | 
+[04:36:46]  |        YSI version 3.09.0684        | 
+[04:36:46]  |        By Alex "Y_Less" Cole        | 
+[04:36:46]  |                                     | 
+[04:36:46]  ======================================= 
+[04:36:46]  
+[04:36:46]  
+[04:36:46]  
+[04:36:46] onfoot_rate = 40  (int, read-only)
+[04:36:46] incar_rate = 40  (int, read-only)
+[04:36:46] weapon_rate = 40  (int, read-only)
+[04:36:55] [SCRIPT] CASAS cargadas con exito.
+[04:36:55] [SCRIPT] DATOS EXTRA cargados con exito.
+[04:36:55] [SCRIPT] ESTADISTICAS DEL SERVIDOR cargadas con exito.
+[04:36:55] [SCRIPT] PUNTOS cargados con exito.
+[04:36:55] [SCRIPT] PUERTAS DINAMICAS cargados con exito.
+[04:36:55] [SCRIPT] AUTOS EN VENTA cargados con exito.
+[04:36:55] [SCRIPT] CAMARAS DE VELOCIDAD cargadas con exito.
+[04:36:55] [SCRIPT] ATM's cargados con exito.
+[04:36:55] [SCRIPT] CODIGOS VIP cargados con exito.
+[04:36:56] [SCRIPT] NEGOCIOS cargados con exito.
+[04:36:59] [SCRIPT] P-VEHICULOS cargados con exito.
+[04:36:59]  
+[04:36:59]  
+[04:36:59] -------------------------------------------
+[04:36:59]  <!> INICIANDO GAMEMODE...
+[04:36:59]  <!> AMX CARGADO...
+[04:36:59]  * Bienvenido a NEW PARADISE Roleplay *
+[04:36:59] -------------------------------------------
+[04:36:59]  
+[04:36:59] Number of vehicle models: 128
+[04:37:10] Incoming connection: 127.0.0.1:62653
+[04:37:10] [join] Bruno_Hoffman has joined the server (0:127.0.0.1)
+[04:38:06] [Jugador: Bruno Hoffman 0] ha escrito el comando '/adminduty'.
+[04:38:07] [Jugador: Clicked 0] ha escrito el comando '/adminduty'.
+[04:38:10] [Jugador: Bruno Hoffman 0] ha escrito el comando '/ah'.
+[04:38:38] [Jugador: Bruno Hoffman 0] ha escrito el comando '/makeshop'.
+[04:38:40] [Jugador: Bruno Hoffman 0] ha escrito el comando '/makeshop 0'.
+[04:38:43] [Jugador: Bruno Hoffman 0] ha escrito el comando '/ah'.
+[04:39:12] [part] Bruno_Hoffman has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R4, (C)2005-2014 SA-MP Team
+
+[13:42:32] 
+[13:42:32] Server Plugins
+[13:42:32] --------------
+[13:42:32]  Loading plugin: streamer.dll
+[13:42:33] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[13:42:33]   Loaded.
+[13:42:33]  Loading plugin: sscanf.dll
+[13:42:33] 
+
+[13:42:33]  ===============================
+
+[13:42:33]       sscanf plugin loaded.     
+
+[13:42:33]          Version:  2.8.1        
+
+[13:42:33]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:42:33]  ===============================
+
+[13:42:33]   Loaded.
+[13:42:33]  Loaded 2 plugins.
+
+[13:42:33] 
+[13:42:33] Filterscripts
+[13:42:33] ---------------
+[13:42:33]   Loading filterscript '1.amx'...
+[13:42:33]   Loading filterscript '2.amx'...
+[13:42:33]   Loaded 2 filterscripts.
+
+[13:42:33]  
+[13:42:33]  
+[13:42:33]  
+[13:42:33]  ======================================= 
+[13:42:33]  |                                     | 
+[13:42:33]  |        YSI version 3.09.0684        | 
+[13:42:33]  |        By Alex "Y_Less" Cole        | 
+[13:42:33]  |                                     | 
+[13:42:33]  ======================================= 
+[13:42:33]  
+[13:42:33]  
+[13:42:33]  
+[13:42:33] onfoot_rate = 40  (int, read-only)
+[13:42:33] incar_rate = 40  (int, read-only)
+[13:42:33] weapon_rate = 40  (int, read-only)
+[13:42:44] [SCRIPT] CASAS cargadas con exito.
+[13:42:44] [SCRIPT] DATOS EXTRA cargados con exito.
+[13:42:44] [SCRIPT] ESTADISTICAS DEL SERVIDOR cargadas con exito.
+[13:42:44] [SCRIPT] PUNTOS cargados con exito.
+[13:42:45] [SCRIPT] PUERTAS DINAMICAS cargados con exito.
+[13:42:45] [SCRIPT] AUTOS EN VENTA cargados con exito.
+[13:42:45] [SCRIPT] CAMARAS DE VELOCIDAD cargadas con exito.
+[13:42:45] [SCRIPT] ATM's cargados con exito.
+[13:42:45] [SCRIPT] CODIGOS VIP cargados con exito.
+[13:42:46] [SCRIPT] NEGOCIOS cargados con exito.
+[13:42:51] [SCRIPT] P-VEHICULOS cargados con exito.
+[13:42:51]  
+[13:42:51]  
+[13:42:51] -------------------------------------------
+[13:42:51]  <!> INICIANDO GAMEMODE...
+[13:42:51]  <!> AMX CARGADO...
+[13:42:51]  * Bienvenido a NEW PARADISE Roleplay *
+[13:42:51] -------------------------------------------
+[13:42:51]  
+[13:42:51] Number of vehicle models: 128
+[13:44:32] Incoming connection: 127.0.0.1:51314
+[13:44:32] [join] Bruno_Hoffman has joined the server (0:127.0.0.1)
+[13:45:08] [Jugador: Bruno Hoffman 0] ha escrito el comando '/jetpack'.
+[13:45:12] [Jugador: Bruno Hoffman 0] ha escrito el comando '/alimpiar'.
+[13:47:41] [Jugador: Bruno Hoffman 0] ha escrito el comando '/ayuda'.
+[13:47:51] [Jugador: Bruno Hoffman 0] ha escrito el comando '/inventario'.
+[13:48:01] [Jugador: Bruno Hoffman 0] ha escrito el comando '/cuenta'.
+[13:49:27] [Jugador: Bruno Hoffman 0] ha escrito el comando '/enventa'.
+[13:49:32] [Jugador: Bruno Hoffman 0] ha escrito el comando '/pstat'.
+[13:49:38] [Jugador: Bruno Hoffman 0] ha escrito el comando '/adminduty'.
+[13:49:41] [Jugador: Clicked 0] ha escrito el comando '/pstat'.
+[13:49:48] [Jugador: Clicked 0] ha escrito el comando '/pstat 0 1 5'.
+[13:49:50] [Jugador: Clicked 0] ha escrito el comando '/enventa'.
+[13:49:54] [Jugador: Clicked 0] ha escrito el comando '/alimpiar'.
+[13:49:57] [Jugador: Clicked 0] ha escrito el comando '/adminduty'.
+[13:50:19] [Jugador: Bruno Hoffman 0] ha escrito el comando '/enventa 120000'.
+[13:50:57] [Jugador: Bruno Hoffman 0] ha escrito el comando '/enventa'.
+[13:51:00] [Jugador: Bruno Hoffman 0] ha escrito el comando '/qenventa'.
+[13:51:43] [Jugador: Bruno Hoffman 0] ha escrito el comando '/comprarcasa'.
+[13:51:46] [Jugador: Bruno Hoffman 0] ha escrito el comando '/pstat'.
+[13:51:48] [Jugador: Bruno Hoffman 0] ha escrito el comando '/adminduty'.
+[13:51:54] [Jugador: Clicked 0] ha escrito el comando '/pstat 0 1 6'.
+[13:51:58] [Jugador: Clicked 0] ha escrito el comando '/comprarcasa'.
+[13:52:02] [Jugador: Clicked 0] ha escrito el comando '/alimpiar'.
+[13:52:08] [Jugador: Clicked 0] ha escrito el comando '/alimpiar'.
+[13:52:24] [Jugador: Clicked 0] ha escrito el comando '/adminduty'.
+[13:52:50] [Jugador: Bruno Hoffman 0] ha escrito el comando '/entrar'.
+[13:52:59] [part] Bruno_Hoffman has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R4, (C)2005-2014 SA-MP Team
+
+[18:14:21] 
+[18:14:21] Server Plugins
+[18:14:21] --------------
+[18:14:21]  Loading plugin: streamer.dll
+[18:14:26]   Failed.
+[18:14:26]  Loading plugin: sscanf.dll
+[18:14:28]   Failed.
+[18:14:28]  Loaded 0 plugins.
+
+[18:14:28] 
+[18:14:28] Filterscripts
+[18:14:28] ---------------
+[18:14:28]   Loading filterscript '1.amx'...
+[18:14:28]   Loading filterscript '2.amx'...
+[18:14:28]   Loaded 2 filterscripts.
+
+[18:14:28] Script[gamemodes/NP.amx]: Run time error 19: "File or function is not found"
+[18:14:28] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:14:58] 
+[19:14:58] Server Plugins
+[19:14:58] --------------
+[19:14:58]  Loading plugin: streamer.dll
+[19:14:58] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[19:14:58]   Loaded.
+[19:14:58]  Loading plugin: sscanf.dll
+[19:14:58] 
+
+[19:14:58]  ===============================
+
+[19:14:58]       sscanf plugin loaded.     
+
+[19:14:58]          Version:  2.8.1        
+
+[19:14:58]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:14:58]  ===============================
+
+[19:14:58]   Loaded.
+[19:14:58]  Loaded 2 plugins.
+
+[19:14:58] 
+[19:14:58] Filterscripts
+[19:14:58] ---------------
+[19:14:58]   Loading filterscript '1.amx'...
+[19:14:58]   Loading filterscript '2.amx'...
+[19:14:58]   Loaded 2 filterscripts.
+
+[19:14:58]  
+[19:14:58]  
+[19:14:58]  
+[19:14:58]  ======================================= 
+[19:14:58]  |                                     | 
+[19:14:58]  |        YSI version 3.09.0684        | 
+[19:14:58]  |        By Alex "Y_Less" Cole        | 
+[19:14:58]  |                                     | 
+[19:14:58]  ======================================= 
+[19:14:58]  
+[19:14:58]  
+[19:14:59]  
+[19:14:59] onfoot_rate = 40  (int, read-only)
+[19:14:59] incar_rate = 40  (int, read-only)
+[19:14:59] weapon_rate = 40  (int, read-only)
+[19:15:04] [SCRIPT] CASAS cargadas con exito.
+[19:15:04] [SCRIPT] DATOS EXTRA cargados con exito.
+[19:15:04] [SCRIPT] ESTADISTICAS DEL SERVIDOR cargadas con exito.
+[19:15:04] [SCRIPT] PUNTOS cargados con exito.
+[19:15:04] [SCRIPT] PUERTAS DINAMICAS cargados con exito.
+[19:15:04] [SCRIPT] AUTOS EN VENTA cargados con exito.
+[19:15:04] [SCRIPT] CAMARAS DE VELOCIDAD cargadas con exito.
+[19:15:04] [SCRIPT] ATM's cargados con exito.
+[19:15:04] [SCRIPT] CODIGOS VIP cargados con exito.
+[19:15:05] [SCRIPT] NEGOCIOS cargados con exito.
+[19:15:07] [SCRIPT] P-VEHICULOS cargados con exito.
+[19:15:07]  
+[19:15:07]  
+[19:15:07] -------------------------------------------
+[19:15:07]  <!> INICIANDO GAMEMODE...
+[19:15:07]  <!> AMX CARGADO...
+[19:15:07]  * Bienvenido a NEW PARADISE Roleplay *
+[19:15:07] -------------------------------------------
+[19:15:07]  
+[19:15:07] Number of vehicle models: 128
+[19:16:31] [connection] 192.168.1.3:58761 requests connection cookie.
+[19:16:32] [connection] incoming connection: 192.168.1.3:58761 id: 0
+[19:16:32] [join] Ken_Med has joined the server (0:192.168.1.3)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:33:27] 
+[19:33:27] Server Plugins
+[19:33:27] --------------
+[19:33:27]  Loading plugin: streamer.dll
+[19:33:27] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[19:33:27]   Loaded.
+[19:33:27]  Loading plugin: sscanf.dll
+[19:33:27] 
+
+[19:33:27]  ===============================
+
+[19:33:27]       sscanf plugin loaded.     
+
+[19:33:27]          Version:  2.8.1        
+
+[19:33:27]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:33:27]  ===============================
+
+[19:33:27]   Loaded.
+[19:33:27]  Loaded 2 plugins.
+
+[19:33:28] 
+[19:33:28] Filterscripts
+[19:33:28] ---------------
+[19:33:28]   Loading filterscript '1.amx'...
+[19:33:28]   Loading filterscript '2.amx'...
+[19:33:28]   Loaded 2 filterscripts.
+
+[19:33:28]  
+[19:33:28]  
+[19:33:28]  
+[19:33:28]  ======================================= 
+[19:33:28]  |                                     | 
+[19:33:28]  |        YSI version 3.09.0684        | 
+[19:33:28]  |        By Alex "Y_Less" Cole        | 
+[19:33:28]  |                                     | 
+[19:33:28]  ======================================= 
+[19:33:28]  
+[19:33:28]  
+[19:33:28]  
+[19:33:28] onfoot_rate = 40  (int, read-only)
+[19:33:28] incar_rate = 40  (int, read-only)
+[19:33:28] weapon_rate = 40  (int, read-only)
+[19:33:33] [SCRIPT] CASAS cargadas con exito.
+[19:33:33] [SCRIPT] DATOS EXTRA cargados con exito.
+[19:33:33] [SCRIPT] ESTADISTICAS DEL SERVIDOR cargadas con exito.
+[19:33:33] [SCRIPT] PUNTOS cargados con exito.
+[19:33:33] [SCRIPT] PUERTAS DINAMICAS cargados con exito.
+[19:33:33] [SCRIPT] AUTOS EN VENTA cargados con exito.
+[19:33:33] [SCRIPT] CAMARAS DE VELOCIDAD cargadas con exito.
+[19:33:33] [SCRIPT] ATM's cargados con exito.
+[19:33:33] [SCRIPT] CODIGOS VIP cargados con exito.
+[19:33:33] [SCRIPT] NEGOCIOS cargados con exito.
+[19:33:36] [SCRIPT] P-VEHICULOS cargados con exito.
+[19:33:36]  
+[19:33:36]  
+[19:33:36] -------------------------------------------
+[19:33:36]  <!> INICIANDO GAMEMODE...
+[19:33:36]  <!> AMX CARGADO...
+[19:33:36]  * Bienvenido a NEW PARADISE Roleplay *
+[19:33:36] -------------------------------------------
+[19:33:36]  
+[19:33:36] Number of vehicle models: 128
+[19:34:06] [connection] 192.168.1.3:64643 requests connection cookie.
+[19:34:07] [connection] incoming connection: 192.168.1.3:64643 id: 0
+[19:34:07] [join] Ken_Med has joined the server (0:192.168.1.3)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:43:37] 
+[19:43:37] Server Plugins
+[19:43:37] --------------
+[19:43:37]  Loading plugin: streamer.dll
+[19:43:37] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[19:43:37]   Loaded.
+[19:43:37]  Loading plugin: sscanf.dll
+[19:43:37] 
+
+[19:43:37]  ===============================
+
+[19:43:37]       sscanf plugin loaded.     
+
+[19:43:37]          Version:  2.8.1        
+
+[19:43:37]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:43:37]  ===============================
+
+[19:43:37]   Loaded.
+[19:43:37]  Loaded 2 plugins.
+
+[19:43:37] 
+[19:43:37] Filterscripts
+[19:43:37] ---------------
+[19:43:37]   Loading filterscript '1.amx'...
+[19:43:37]   Loading filterscript '2.amx'...
+[19:43:37]   Loaded 2 filterscripts.
+
+[19:43:37]  
+[19:43:37]  
+[19:43:37]  
+[19:43:37]  ======================================= 
+[19:43:37]  |                                     | 
+[19:43:37]  |        YSI version 3.09.0684        | 
+[19:43:37]  |        By Alex "Y_Less" Cole        | 
+[19:43:37]  |                                     | 
+[19:43:37]  ======================================= 
+[19:43:37]  
+[19:43:37]  
+[19:43:37]  
+[19:43:37] onfoot_rate = 40  (int, read-only)
+[19:43:37] incar_rate = 40  (int, read-only)
+[19:43:37] weapon_rate = 40  (int, read-only)
+[19:43:42] [SCRIPT] CASAS cargadas con exito.
+[19:43:42] [SCRIPT] DATOS EXTRA cargados con exito.
+[19:43:42] [SCRIPT] ESTADISTICAS DEL SERVIDOR cargadas con exito.
+[19:43:42] [SCRIPT] PUNTOS cargados con exito.
+[19:43:42] [SCRIPT] PUERTAS DINAMICAS cargados con exito.
+[19:43:42] [SCRIPT] AUTOS EN VENTA cargados con exito.
+[19:43:42] [SCRIPT] CAMARAS DE VELOCIDAD cargadas con exito.
+[19:43:42] [SCRIPT] ATM's cargados con exito.
+[19:43:42] [SCRIPT] CODIGOS VIP cargados con exito.
+[19:43:42] [SCRIPT] NEGOCIOS cargados con exito.
+[19:43:45] [SCRIPT] P-VEHICULOS cargados con exito.
+[19:43:45]  
+[19:43:45]  
+[19:43:45] -------------------------------------------
+[19:43:45]  <!> INICIANDO GAMEMODE...
+[19:43:45]  <!> AMX CARGADO...
+[19:43:45]  * Bienvenido a NEW PARADISE Roleplay *
+[19:43:45] -------------------------------------------
+[19:43:45]  
+[19:43:45] Number of vehicle models: 128
+[19:44:16] [connection] 192.168.1.3:60666 requests connection cookie.
+[19:44:17] [connection] incoming connection: 192.168.1.3:60666 id: 0
+[19:44:17] [join] Ken_Med has joined the server (0:192.168.1.3)
+[19:46:56] [Jugador: Ken Med 0] ha escrito el comando '/anuncio'.
+[19:48:33] [Jugador: Ken Med 0] ha escrito el comando '/entrar'.
+[19:48:36] [Jugador: Ken Med 0] ha escrito el comando '/entrar'.
+[19:49:19] [Jugador: Ken Med 0] ha escrito el comando '/apelear'.
+[19:51:28] [Jugador: Ken Med 0] ha escrito el comando '/abrirpuerta'.
+[19:51:31] [Jugador: Ken Med 0] ha escrito el comando '/abrirpuerta'.
+[19:51:37] [Jugador: Ken Med 0] ha escrito el comando '/abrirpuerta'.
+[19:55:14] [Jugador: Ken Med 0] ha escrito el comando '/trabajos'.
+[19:56:57] [Jugador: Ken Med 0] ha escrito el comando '/unirse'.
+[19:57:02] [Jugador: Ken Med 0] ha escrito el comando '/est'.
+[19:57:08] [Jugador: Ken Med 0] ha escrito el comando '/ayuda'.
+[19:57:23] [Jugador: Ken Med 0] ha escrito el comando '/talar'.
+[19:59:27] [Jugador: Ken Med 0] ha escrito el comando '/dtalar'.
+[20:00:03] [Jugador: Ken Med 0] ha escrito el comando '/unirse'.
+[20:00:07] [Jugador: Ken Med 0] ha escrito el comando '/renunciar'.
+[20:00:09] [Jugador: Ken Med 0] ha escrito el comando '/unirse'.
+[20:00:12] [Jugador: Ken Med 0] ha escrito el comando '/ayuda'.
+[20:00:25] [Jugador: Ken Med 0] ha escrito el comando '/picar'.
+[20:00:58] [Jugador: Ken Med 0] ha escrito el comando '/picar'.
+[20:01:48] [Jugador: Ken Med 0] ha escrito el comando '/dpicar'.
+[20:01:59] [part] Ken_Med has left the server (0:1)
